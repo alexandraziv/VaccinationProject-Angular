@@ -1,0 +1,114 @@
+[
+    {
+        "_id": 1,
+        "personal_number": "0101001390008",
+        "name": "Filip Ivanović",
+        "healthcare_institution": "Dom zdravlja \"Savski venac\"",
+        "vaccine_id": 1
+    },
+    {
+        "_id": 2,
+        "personal_number": "0202002395004",
+        "name": "Anka Marjanović",
+        "healthcare_institution": "Dom zdravlja \"Novi Sad\"",
+        "vaccine_id": 2
+    },
+    {
+        "_id": 3,
+        "personal_number": "0303003390007",
+        "name": "Stanislav Tomić",
+        "healthcare_institution": "Dom zdravlja \"Milutin Ivković\" - Palilula",
+        "vaccine_id": 3
+    },
+    {
+        "_id": 4,
+        "personal_number": "0404004395003",
+        "name": "Mladenka Stankić",
+        "healthcare_institution": "Dom zdravlja \"Dr Milorad Vlajković\" - Barajevo",
+        "vaccine_id": 4
+    },
+    {
+        "_id": 5,
+        "personal_number": "0505005390006",
+        "name": "Simeon Petrović",
+        "healthcare_institution": "Dom zdravlja Voždovac",
+        "vaccine_id": 5
+    },
+    {
+        "_id": 6,
+        "personal_number": "0606001395004",
+        "name": "Malina Perić",
+        "healthcare_institution": "Dom zdravlja Vračar",
+        "vaccine_id": 1
+    },
+    {
+        "_id": 7,
+        "personal_number": "0707002390007",
+        "name": "Gojko Marjanović",
+        "healthcare_institution": "Dom zdravlja Zvezdara",
+        "vaccine_id": 2
+    },
+    {
+        "_id": 8,
+        "personal_number": "0808003395003",
+        "name": "Milena Kovačić",
+        "healthcare_institution": "Dom zdravlja Zemun",
+        "vaccine_id": 3
+    },
+    {
+        "_id": 9,
+        "personal_number": "0909004390006",
+        "name": "Risto Tomić",
+        "healthcare_institution": "Dom zdravlja Novi Beograd",
+        "vaccine_id": 4
+    },
+    {
+        "_id": 10,
+        "personal_number": "1010005395002",
+        "name": "Maja Stojanović",
+        "healthcare_institution": "Dom zdravlja Obrenovac",
+        "vaccine_id": 5
+    },
+    {
+        "_id": 11,
+        "personal_number": "1111001390007",
+        "name": "Jovica Radić",
+        "healthcare_institution": "Dom zdravlja Stari grad",
+        "vaccine_id": 1
+    },
+    {
+        "_id": 12,
+        "personal_number": "1212002395003",
+        "name": "Vanja Milovanović",
+        "healthcare_institution": "Dom zdravlja \"Milivoje Stojković\" - Grocka",
+        "vaccine_id": 2
+    },
+    {
+        "_id": 13,
+        "personal_number": "0101001390008",
+        "name": "Filip Ivanović",
+        "healthcare_institution": "Dom zdravlja Voždovac",
+        "vaccine_id": 1
+    },
+    {
+        "_id": 14,
+        "personal_number": "0202002395004",
+        "name": "Anka Marjanović",
+        "healthcare_institution": "Dom zdravlja \"Novi Sad\"",
+        "vaccine_id": 2
+    },
+    {
+        "_id": 15,
+        "personal_number": "0202002395004",
+        "name": "Anka Marjanović",
+        "healthcare_institution": "Dom zdravlja \"Novi Sad\"",
+        "vaccine_id": 1
+    },
+    {
+        "_id": 16,
+        "personal_number": "0303003390007",
+        "name": "Stanislav Tomić",
+        "healthcare_institution": "Dom zdravlja \"Milivoje Stojković\" - Grocka",
+        "vaccine_id": 4
+    }
+]

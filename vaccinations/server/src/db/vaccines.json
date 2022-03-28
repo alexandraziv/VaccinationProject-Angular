@@ -1,0 +1,7 @@
+[
+    {"_id": 1, "name": "BNT162b2", "manufacturer": "BioNTech, Fosun Pharma, Pfizer", "type": "RNA"},
+    {"_id": 2, "name": "Gam-COVID-Vac", "manufacturer": "Gamaleya Research Institute", "type": "Non-Replicating Viral Vector"},
+    {"_id": 3, "name": "BBIBP-CorV", "manufacturer": "Beijing Institute of Biological Products, Sinopharm", "type": "Inactivated"},
+    {"_id": 4, "name": "AZD1222 (ChAdOx1)", "manufacturer": "AstraZeneca, University of Oxford", "type": "Non-Replicating Viral Vector"},
+    {"_id": 5, "name": "mRNA-1273", "manufacturer": "Moderna, NIAID", "type": "RNA"}
+]
